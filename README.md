@@ -1,5 +1,5 @@
-What is up my dudes./n
-I'm here to learn how to actually use this website so I can do cool stuff with it./n
+What is up my dudes.<hr>
+I'm here to learn how to actually use this website so I can do cool stuff with it.<br>
 Open Source is a pretty cool thing I think.
 
 <!---

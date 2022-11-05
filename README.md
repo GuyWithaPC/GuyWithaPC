@@ -1,6 +1,5 @@
-What is up my dudes.<hr>
-I'm here to learn how to actually use this website so I can do cool stuff with it.<br>
-Open Source is a pretty cool thing I think.
+
+
 
 <!---
 GuyWithaPC/GuyWithaPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 
-My name is Max Petersen and I'm a junior studying computer science and mathematics at the University of Utah.
+My name is Max Petersen and I'm a senior studying computer science and mathematics at the University of Utah.
 
 I'm interested in low-level/embedded programming and interesting programming languages like Haskell and Rust.
 
